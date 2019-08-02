@@ -1,5 +1,10 @@
 # Working with and thinking about Objects
 
+## 2019 - Delta
+[![YouTube](http://img.youtube.com/vi/ZaK4BpIEG10/0.jpg)](https://www.youtube.com/watch?v=ZaK4BpIEG10)
+]
+
+## 2019 - Charlie
 [![YouTube](http://img.youtube.com/vi/1BZPSnXKK1M/0.jpg)](https://www.youtube.com/watch?v=1BZPSnXKK1M)
 ]
 ## Object with Data
